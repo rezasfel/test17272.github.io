@@ -1,0 +1,13 @@
+body {
+  background: #333777;
+  background-clip: 100;
+}
+
+.Ordered {
+  text-align: left;
+  color: #00ccd2;
+}
+
+.Unordered {
+  color: yellow;
+}
